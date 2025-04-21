@@ -1,6 +1,6 @@
 # reward_perception
 Code for reproducing the simulations and figures from the paper “Rewarding animals based on their subjective percepts is enabled by online Bayesian estimation of perceptual biases.”
-The Code was developed by Yelin Dong.
+The code was developed by Yelin Dong.
 
 # Author summary
 We tackle a fundamental problem in animal training for neuroscience: how to incentivize animals to report what they truly perceive, when those perceptions are hidden from us. Our Bayesian method estimates subjective percepts and aligns rewards with internal experiences in real time.
