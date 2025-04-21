@@ -7,6 +7,8 @@ We tackle a fundamental problem in animal training for neuroscience: how to ince
 INSTALLATION AND USAGE INSTRUCTIONS
 ===================================
 
+For the release v1.0: https://doi.org/10.5281/zenodo.15254396
+
 1. **Install MatlabStan**
    - URL: https://github.com/brian-lau/MatlabStan
    - Before installing MatlabStan, you must first install CmdStan:
