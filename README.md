@@ -39,7 +39,7 @@ For the release v1.0: https://doi.org/10.5281/zenodo.15254396
 
    Scripts for each figure:
 
-   - Figure 3 and S3: SimulationFigure3andS3.m
+   - Figure 3 and S3: download the mat file from SimulationFigure3andS3.m and paste it in the `simulation_data` folder.
    - Figure 3GH: SimulationFigure3GH.m
    - Figure 5AB: SimulationFigure5AB.m
    - Figure 5CE: SimulationFigure5CE.m
